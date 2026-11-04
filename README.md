@@ -1,29 +1,20 @@
-# Tere! 👋 Mina olen Maarja
+# DACA Portfoolio -- Maarja
 
-## 🎯 Andmeanalüütiku Karjääri Algus
+## Minust
+[Kirjuta 2-3 lauset enda kohta. Miks sa liitusid DACA programmiga?]
 
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+## Eesmärk
+Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
 
-## 🛠️ Tehnoloogiad, mida õpin
+## Nädala kaupa
+| Nädal | Teema | Staatus |
+|-------|-------|---------|
+| 0 | Onboarding | Käimas |
+| 1 | SQL Basics | Tulemas |
+| 2 | SQL Cleaning | Tulemas |
+| 3 | SQL JOINs | Tulemas |
+| 4 | SQL Aggregation | Tulemas |
+| 5-6 | Visualiseerimine | Tulemas |
+| 7-8 | Python | Tulemas |
+| 9-10 | Portfoolio + Karjäär | Tulemas |
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-- **Andmebaasid:** PostgreSQL, Supabase
-- **Programmeerimiskeeled:** Python (pandas, plotly)
-- **Visualiseerimine:** Power BI, Streamlit
-- **Versioonihaldus:** Git, GitHub
-
-## 📂 Projektid
-
-- [**DACA Portfoolio**](https://github.com/maarjavalmas/daca-portfoolio) - 11-nädalased õppeprojektid
-
-## 📫 Kontakt
-
-- **Email:** maarjavalmas1@gmail.com
-- **LinkedIn:** [linkedin.com/in/maarja-valmas-a22059269](https://www.linkedin.com/in/maarja-valmas-a22059269/)
-
----
-
-_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
