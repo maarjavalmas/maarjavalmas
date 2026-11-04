@@ -1,7 +1,7 @@
 # DACA Portfoolio -- Maarja
 
 ## Minust
-[Kirjuta 2-3 lauset enda kohta. Miks sa liitusid DACA programmiga?]
+Andmeanalüütika hakkas mulle juba ülikoolis huvi pakkuma, sest mulle meeldib tehniline ja analüütiline töö ning andmete põhjal seoste leidmine ja järelduste tegemine. Liitusin programmiga, et arendada oma SQL-i ja Pythoni oskusi ning omandada praktilised teadmised mis aitaksid mul alustada karjääri andmeanalüütikuna.
 
 ## Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
